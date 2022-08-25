@@ -1,0 +1,273 @@
+.main{
+    font-family: "Roboto";
+}
+a{
+    text-decoration: none;
+}
+.header-link{
+    width: 145px;
+height: 31px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+letter-spacing: 0.03em;
+color: #000000;
+margin-left: 34px
+
+}
+.header-link-2{
+    width: 145px;
+height: 31px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+letter-spacing: 0.03em;
+color: #2196F3;
+margin-left: -5px;
+}
+.header-list{
+    display: flex;
+    margin-left: 93px;
+    margin-top: 32px;
+}
+.header-item{
+    margin-left: 54px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+}
+
+.head{
+    display: flex;
+}
+
+.header-list-2{
+    margin-left: 335px;
+    display: flex;
+    margin-top: 32px; 
+}
+
+.header-item-2{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+    margin-left: 50px;
+}
+
+.a{
+    color: #000000;
+}
+.a-2{
+    color: #757575;
+}
+
+.figure{
+    position: absolute;
+    width: 1600px;
+    height: 600px;
+background: #2F303A;
+top: 80px;
+}
+
+.figure-text{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    /* or 136% */
+    
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 200px;      
+}
+.figure-button{
+    width: 200px;
+    height: 50px;
+    background: #2196F3;
+    border-radius: 4px;
+    margin-left: 700px;
+    margin-top: 30px;
+    color: #FFFFFF;
+    font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+border: none;
+}
+
+.article{
+    margin-top: 694px;
+}
+
+.article-list{
+  display: flex;
+  margin-left: 215px; 
+   
+}
+.article-item{
+    margin-left: 30px;
+}
+
+.article-text{
+    color: #757575;
+}
+.image-text{
+    font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+margin-top: 94px;
+}
+
+.image-list{
+    display: flex;
+    margin-left: 215px;
+}
+
+.image-item{
+   margin-left: 30px;
+   width: 370px;
+height: 294px; 
+}
+
+.team-card-text{
+    font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+margin-top: 188px;
+color: #212121;
+
+}
+
+.team-card-list{
+    display: flex;
+    margin-left: 215px;
+    color: #FFFFFF;
+}
+
+.team-card-item{
+margin-left: 30px;
+width: 270px;
+height: 368px;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+text-align: center;
+letter-spacing: 0.03em;
+background: #FFFFFF;
+/* material shadow v1 */
+
+box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+border-radius: 0px 0px 4px 4px;
+color: #212121;
+
+}
+
+.team-card-image-text{
+    color: #757575;
+    font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+}
+
+.team-card{
+    background: #F5F4FA;
+    width: 1600px;
+height: 648px;
+margin-top: 94px;
+}
+
+.footer{
+    width: 1600px;
+height: 252px;
+background: #2F303A;
+}
+
+.footer-link{
+    width: 145px;
+    height: 31px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: #2196F3;
+      
+}
+
+.footer-link-2{
+    width: 145px;
+height: 31px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+letter-spacing: 0.03em;
+color: #FFFFFF;
+margin-left: -5px;
+}
+
+.footer-text{
+    margin-left: 215px;
+}
+
+.footer-item{
+    font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+margin-left: 215px;
+letter-spacing: 0.03em;
+margin-top: 20px;
+color: #FFFFFF;
+}
+
+.footer-item-2{
+    font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+margin-top: 9px;
+letter-spacing: 0.03em;
+margin-left: 215px;
+color: rgba(255, 255, 255, 0.6);
+}
+
+.body{
+    color: #FFFFFF;
+}
+
+h4{
+    color: #000000;
+}
+
+.a:hover{
+    color: #2196F3;
+}
+
+.a-2:hover{
+    color: #2196F3;
+}
+
