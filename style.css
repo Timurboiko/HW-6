@@ -231,6 +231,7 @@ margin-left: -5px;
 
 .footer-text{
     margin-left: 215px;
+    font-family: "Roboto";
 }
 
 .footer-item{
@@ -242,6 +243,7 @@ margin-left: 215px;
 letter-spacing: 0.03em;
 margin-top: 20px;
 color: #FFFFFF;
+font-family: "Roboto";
 }
 
 .footer-item-2{
@@ -253,6 +255,7 @@ margin-top: 9px;
 letter-spacing: 0.03em;
 margin-left: 215px;
 color: rgba(255, 255, 255, 0.6);
+font-family: "Roboto";
 }
 
 .body{
