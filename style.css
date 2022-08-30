@@ -1,3 +1,4 @@
+ul{display: flex;}
 .main{
     font-family: "Roboto";
 }
@@ -8,38 +9,32 @@ a{
     width: 145px;
 height: 31px;
 font-family: 'Raleway';
-font-style: normal;
 font-weight: 700;
 font-size: 26px;
 line-height: 31px;
 /* identical to box height */
 letter-spacing: 0.03em;
 color: #000000;
-margin-left: 34px
+margin-left: 34px;
+margin-top: 24px;
 
 }
-.header-link-2{
-    width: 145px;
-height: 31px;
+.header-span-link{
 font-family: 'Raleway';
-font-style: normal;
 font-weight: 700;
 font-size: 26px;
 line-height: 31px;
-/* identical to box height */
 letter-spacing: 0.03em;
 color: #2196F3;
-margin-left: -5px;
 }
+
 .header-list{
-    display: flex;
     margin-left: 93px;
     margin-top: 32px;
 }
 .header-item{
     margin-left: 54px;
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
@@ -50,15 +45,13 @@ letter-spacing: 0.02em;
     display: flex;
 }
 
-.header-list-2{
+.header-list-head{
     margin-left: 335px;
-    display: flex;
     margin-top: 32px; 
 }
 
-.header-item-2{
+.header-item-head{
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
@@ -66,10 +59,10 @@ letter-spacing: 0.02em;
     margin-left: 50px;
 }
 
-.a{
+.link-header{
     color: #000000;
 }
-.a-2{
+.link-head{
     color: #757575;
 }
 
@@ -205,7 +198,6 @@ background: #2F303A;
     width: 145px;
     height: 31px;
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 31px;
@@ -219,7 +211,6 @@ background: #2F303A;
     width: 145px;
 height: 31px;
 font-family: 'Raleway';
-font-style: normal;
 font-weight: 700;
 font-size: 26px;
 line-height: 31px;
@@ -266,11 +257,11 @@ h4{
     color: #000000;
 }
 
-.a:hover{
+.link-header:hover{
     color: #2196F3;
 }
 
-.a-2:hover{
+.link-head:hover{
     color: #2196F3;
 }
 
