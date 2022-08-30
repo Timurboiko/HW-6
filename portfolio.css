@@ -12,19 +12,15 @@ color: #000000;
 margin-left: 34px
 
 }
-.header-link-2{
-    width: 145px;
-height: 31px;
-font-family: 'Raleway';
-font-style: normal;
-font-weight: 700;
-font-size: 26px;
-line-height: 31px;
-/* identical to box height */
-letter-spacing: 0.03em;
-color: #2196F3;
-margin-left: -5px;
-}
+
+.hdr-link{
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+    }
 
 a{
     text-decoration: none;
