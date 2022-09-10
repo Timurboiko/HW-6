@@ -11,7 +11,7 @@ height: 31px;
 font-family: 'Raleway';
 font-weight: 700;
 font-size: 26px;
-line-height: 31px;
+line-height: 31pt;
 /* identical to box height */
 letter-spacing: 0.03em;
 color: #000000;
@@ -23,7 +23,7 @@ margin-top: 24px;
 font-family: 'Raleway';
 font-weight: 700;
 font-size: 26px;
-line-height: 31px;
+line-height: 31pt;
 letter-spacing: 0.03em;
 color: #2196F3;
 }
@@ -37,7 +37,7 @@ color: #2196F3;
     font-family: 'Roboto';
 font-weight: 500;
 font-size: 14px;
-line-height: 16px;
+line-height: 16pt;
 letter-spacing: 0.02em;
 }
 
@@ -54,7 +54,7 @@ letter-spacing: 0.02em;
     font-family: 'Roboto';
 font-weight: 500;
 font-size: 14px;
-line-height: 16px;
+line-height: 16pt;
 letter-spacing: 0.02em;
     margin-left: 50px;
 }
@@ -77,7 +77,7 @@ top: 80px;
 .figure-text{
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 60pt;
     /* or 136% */
     
     text-align: center;
@@ -97,7 +97,7 @@ top: 80px;
     color: #FFFFFF;
     font-weight: 700;
 font-size: 16px;
-line-height: 30px;
+line-height: 30pt;
 border: none;
 }
 
@@ -141,7 +141,7 @@ height: 294px;
 .team-card-text{
     font-weight: 700;
 font-size: 36px;
-line-height: 42px;
+line-height: 42pt;
 text-align: center;
 letter-spacing: 0.03em;
 margin-top: 188px;
@@ -161,7 +161,7 @@ width: 270px;
 height: 368px;
 font-weight: 500;
 font-size: 16px;
-line-height: 19px;
+line-height: 19pt;
 
 text-align: center;
 letter-spacing: 0.03em;
@@ -178,7 +178,7 @@ color: #212121;
     color: #757575;
     font-weight: 400;
 font-size: 16px;
-line-height: 19px;
+line-height: 19pt;
 }
 
 .team-card{
@@ -200,7 +200,7 @@ background: #2F303A;
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 31pt;
     /* identical to box height */
     letter-spacing: 0.03em;
     color: #2196F3;
@@ -213,7 +213,7 @@ height: 31px;
 font-family: 'Raleway';
 font-weight: 700;
 font-size: 26px;
-line-height: 31px;
+line-height: 31pt;
 /* identical to box height */
 letter-spacing: 0.03em;
 color: #FFFFFF;
@@ -228,7 +228,7 @@ margin-left: -5px;
 .footer-item{
     font-weight: 400;
 font-size: 14px;
-line-height: 24px;
+line-height: 24pt;
 /* or 171% */
 margin-left: 215px;
 letter-spacing: 0.03em;
@@ -240,7 +240,7 @@ font-family: "Roboto";
 .footer-item-2{
     font-weight: 400;
 font-size: 14px;
-line-height: 24px;
+line-height: 24pt;
 /* or 171% */
 margin-top: 9px;
 letter-spacing: 0.03em;
