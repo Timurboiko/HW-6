@@ -5,7 +5,7 @@ font-family: 'Raleway';
 font-style: normal;
 font-weight: 700;
 font-size: 26px;
-line-height: 31px;
+line-height: 31pt;
 /* identical to box height */
 letter-spacing: 0.03em;
 color: #000000;
@@ -17,7 +17,7 @@ margin-left: 34px
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 31pt;
     letter-spacing: 0.03em;
     color: #2196F3;
     }
@@ -40,7 +40,7 @@ ul{
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
-line-height: 16px;
+line-height: 16pt;
 letter-spacing: 0.02em;
 }
 
@@ -60,7 +60,7 @@ letter-spacing: 0.02em;
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
-line-height: 16px;
+line-height: 16pt;
 letter-spacing: 0.02em;
     margin-left: 50px;
 }
@@ -94,7 +94,7 @@ letter-spacing: 0.02em;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 30px;
+line-height: 30pt;
 /* identical to box height, or 188% */
 letter-spacing: 0.03em;
 margin-left: 24px;
@@ -124,7 +124,7 @@ height: 252px;
 font-style: normal;
 font-weight: 700;
 font-size: 26px;
-line-height: 31px;
+line-height: 31pt;
 /* identical to box height */
 color: #2196F3;
 letter-spacing: 0.03em;
@@ -134,7 +134,7 @@ letter-spacing: 0.03em;
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 31pt;
     /* identical to box height */
     color: #FFFFFF;
     letter-spacing: 0.03em;
@@ -146,7 +146,7 @@ letter-spacing: 0.03em;
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
-line-height: 24px;
+line-height: 24pt;
 /* or 171% */
 
 letter-spacing: 0.03em;
@@ -165,7 +165,7 @@ margin-left: 215px;
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
-line-height: 24px;
+line-height: 24pt;
 /* or 171% */
 
 letter-spacing: 0.03em;
@@ -198,7 +198,7 @@ width: 128px;
 height: 38px;
 font-weight: 500;
 font-size: 16px;
-line-height: 26px;
+line-height: 26pt;
 /* identical to box height, or 162% */
 
 text-align: center;
