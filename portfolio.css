@@ -186,6 +186,7 @@ color: rgba(255, 255, 255, 0.6);
 .button-list{
     margin-left: 495px;
     margin-top: 94px;
+    list-style: none;
 }
 .button-item{
     margin-left: 8px;
